@@ -50,6 +50,7 @@ Compute the expected value \(a(i,j)\), using the above Keno pay-outs and unit st
 For simplicity, assume:  
 
 7 <= i <= 19
+
 7 <= j <= 9
 
 ## 6. Detecting Biased Draws
